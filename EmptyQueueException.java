@@ -1,0 +1,1 @@
+package assignment03PartD;/** * * Part D * */public class EmptyQueueException extends RuntimeException {    public EmptyQueueException() {    }} // end EmptyQueueException
